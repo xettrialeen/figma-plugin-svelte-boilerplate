@@ -1,0 +1,10 @@
+{
+  "name": "Figma + Svelte Plugin",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "index.html",
+  "id": "dc44fb54-7497-46a9-9a26-4287207f080d"
+}
